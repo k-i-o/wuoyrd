@@ -6,8 +6,8 @@
 </h1>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=wuoyrd&color=57a6e6&label=Views&logo=github&style=flat">
-  <img alt="Followers" src="https://img.shields.io/github/followers/wuoyrd?label=follow&color=52cca3&style=flat"/>
-  <img alt="Stars" src="https://img.shields.io/github/stars/wuoyrd?label=watch&color=f57676&style=flat"/>
+  <img alt="Followers" src="https://img.shields.io/github/followers/wuoyrd?label=Followers&color=52cca3&style=flat"/>
+  <img alt="Stars" src="https://img.shields.io/github/stars/wuoyrd?label=Stars&color=f57676&style=flat"/>
 </p>
 
 ## <img align="center" src="https://user-images.githubusercontent.com/24259194/165718575-df34c1f7-2651-414c-b98d-e5f9a72cd4e8.svg" width="32" height="28"/> GitHub Statistics
